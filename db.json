@@ -1,0 +1,319 @@
+{
+  "barangDibeli": [
+    {
+      "id": "25c2",
+      "nama": "heeha",
+      "jumlah": "eaiaoi232"
+    }
+  ],
+  "permintaanJasa": [
+    {
+      "id": "e685",
+      "namaPembeli": "hahdah",
+      "alamatKebun": "mdsdasjdjb",
+      "jenisPekerjaan": "jasuidss",
+      "penjasa": "Andi Prasetyo",
+      "kontakPenjasa": "6281234567890"
+    },
+    {
+      "id": "b4bd",
+      "namaPembeli": "henn",
+      "alamatKebun": "tdtdt",
+      "jenisPekerjaan": "yu7yyyu",
+      "penjasa": "Budi Santosa",
+      "kontakPenjasa": "6281122334455"
+    },
+    {
+      "id": "56ca",
+      "nama": "wdwdasd",
+      "nohp": "325325325",
+      "alamatKebun": "etwetwe",
+      "jenisPekerjaan": "wteettew",
+      "providerId": 1,
+      "providerName": "Andi Prasetyo"
+    },
+    {
+      "id": "549d",
+      "nama": "aidil",
+      "nohp": "0938032",
+      "alamatKebun": "jrjhadbs",
+      "jenisPekerjaan": "ksndjkasn",
+      "providerId": 3,
+      "providerName": "Budi Santosa"
+    },
+    {
+      "id": "adc7",
+      "nama": "sfjksjfsssaf",
+      "nohp": "55252",
+      "alamatKebun": "kartama",
+      "jenisPekerjaan": "mupuk",
+      "providerId": 1,
+      "providerName": "Andi Prasetyo"
+    },
+    {
+      "id": "8838",
+      "nama": "lknslkdnas",
+      "nohp": "jksandkjsa",
+      "alamatKebun": "jsasdnksad",
+      "jenisPekerjaan": "kksndoias",
+      "providerId": 1,
+      "providerName": "Andi Prasetyo"
+    },
+    {
+      "id": "d92c",
+      "nama": "jamal",
+      "nohp": "0384843",
+      "alamatKebun": "jl meranti",
+      "jenisPekerjaan": "angkut sawit",
+      "providerId": "2f23",
+      "providerName": "Citra Kiranti"
+    },
+    {
+      "id": "5378",
+      "nama": "bagas",
+      "nohp": "0808",
+      "alamatKebun": "kertama",
+      "jenisPekerjaan": "numan",
+      "providerId": "2f23",
+      "providerName": "Citra Kiranti"
+    },
+    {
+      "id": "084f",
+      "nama": "wwwwwwwwwwwww",
+      "nohp": "222222222222222",
+      "alamatKebun": "55555555555",
+      "jenisPekerjaan": "rqqqqqqqqqqqq",
+      "providerId": "2f23",
+      "providerName": "Citra Kiranti"
+    },
+    {
+      "id": "d676",
+      "nama": "rwwwww",
+      "nohp": "4355435",
+      "alamatKebun": "jkiajs",
+      "jenisPekerjaan": "ioandoas",
+      "providerId": "2f23",
+      "providerName": "Citra Kiranti"
+    },
+    {
+      "id": "b1af",
+      "nama": "hendi",
+      "nohp": "3244142",
+      "alamatKebun": "kakaishd",
+      "jenisPekerjaan": "hdhaha",
+      "providerId": "e1cc",
+      "providerName": "Afhil Gambus"
+    },
+    {
+      "id": "75d9",
+      "nama": "hendi",
+      "nohp": "08832832929",
+      "alamatKebun": "ahdkshdsa",
+      "jenisPekerjaan": "rundap",
+      "providerId": "e1cc",
+      "providerName": "Afhil Gambus"
+    },
+    {
+      "id": "db5e",
+      "nama": "fyct",
+      "nohp": "97787",
+      "alamatKebun": "yuyyuv",
+      "jenisPekerjaan": "kuyvu",
+      "providerId": "2f23",
+      "providerName": "Citra Kiranti"
+    },
+    {
+      "id": "f8b8",
+      "nama": "hemurs",
+      "nohp": "08y758477",
+      "alamatKebun": "vkgvh",
+      "jenisPekerjaan": "hvkyuv",
+      "providerId": "e1cc",
+      "providerName": "Afhil Gambus"
+    },
+    {
+      "id": "32b0",
+      "nama": "hrnsenfs",
+      "nohp": "084028423",
+      "alamatKebun": "sfsf",
+      "jenisPekerjaan": "sdfdsfsd",
+      "providerId": "2f23",
+      "providerName": "Citra Kiranti"
+    },
+    {
+      "id": "3ff3",
+      "nama": "werwewe",
+      "nohp": "dsfsd",
+      "alamatKebun": "sfsdfds",
+      "jenisPekerjaan": "dsffds",
+      "providerId": "2f23",
+      "providerName": "Citra Kiranti"
+    }
+  ],
+  "barangInventory": [
+    {
+      "id": "cb09",
+      "nama": "pupuk npk",
+      "jenis": "Pupuk",
+      "harga": 800000,
+      "stok": 49,
+      "satuan": "sak",
+      "editing": false
+    },
+    {
+      "id": "b184",
+      "nama": "roundap",
+      "jenis": "Racun Rumput",
+      "harga": 450000,
+      "stok": 53,
+      "satuan": "liter",
+      "editing": false
+    }
+  ],
+  "transaksi": [
+    {
+      "id": "192b",
+      "tanggal": "2025-07-08T10:10:33.288Z",
+      "namaPembeli": "aidil",
+      "nohp": "008080808",
+      "barangId": "cb09",
+      "namaBarang": "pupuk npk",
+      "jumlah": 25,
+      "hargaSatuan": 800000,
+      "totalHarga": 20000000,
+      "satuan": "sak"
+    }
+  ],
+  "transaksiSawit": [
+    {
+      "id": "134c",
+      "namaPenjual": "jsjsj",
+      "alamatSawit": "jaksjn c",
+      "jumlahMobil": 1,
+      "tanggal": "2025-07-08T10:28:50.882Z"
+    },
+    {
+      "id": "fd2c",
+      "namaPenjual": "hendi",
+      "alamatSawit": "jdkasjd",
+      "jumlahMobil": 2,
+      "tanggal": "2025-07-08T12:39:40.081Z"
+    }
+  ],
+  "penjualanTahunan": [
+    {
+      "tahun": 2022,
+      "barang": {
+        "total": 1500000000,
+        "rincian": [
+          {
+            "nama": "Pupuk Urea",
+            "total": 600000000
+          },
+          {
+            "nama": "Racun Rumput",
+            "total": 300000000
+          },
+          {
+            "nama": "Kelapa Sawit",
+            "total": 600000000
+          }
+        ]
+      },
+      "jasa": {
+        "total": 500000000,
+        "rincian": [
+          {
+            "nama": "Konsultasi Budidaya",
+            "total": 200000000
+          },
+          {
+            "nama": "Pelatihan Petani",
+            "total": 300000000
+          }
+        ]
+      },
+      "id": "fbc8"
+    },
+    {
+      "tahun": 2023,
+      "barang": {
+        "total": 1750000000,
+        "rincian": [
+          {
+            "nama": "Pupuk KCL",
+            "total": 700000000
+          },
+          {
+            "nama": "Kelapa Sawit Premium",
+            "total": 1050000000
+          }
+        ]
+      },
+      "jasa": {
+        "total": 600000000,
+        "rincian": [
+          {
+            "nama": "Distribusi Produk",
+            "total": 400000000
+          },
+          {
+            "nama": "Edukasi Sawit",
+            "total": 200000000
+          }
+        ]
+      },
+      "id": "9809"
+    }
+  ],
+  "providers": [
+    {
+      "id": "2f23",
+      "name": "Citra Kirantini",
+      "wa": "0822231321",
+      "photo": "https://res.cloudinary.com/duqgyhzj1/image/upload/v1751974578/pc5uebchnfset9k6kle5.jpg",
+      "editing": true
+    },
+    {
+      "id": "e1cc",
+      "name": "Afhil Gambus",
+      "wa": "08423634211",
+      "photo": "https://res.cloudinary.com/duqgyhzj1/image/upload/v1751976608/tra84l42wbli1k4yqb7j.jpg"
+    },
+    {
+      "id": "cc62",
+      "name": "Munaroh",
+      "wa": "081223374738",
+      "photo": "https://res.cloudinary.com/duqgyhzj1/image/upload/v1751985623/vpnqvb4qyk77rdrmu4fx.jpg"
+    }
+  ],
+  "detailpemesanjasa": [
+    {
+      "id": "5d34",
+      "nama": "kjbksadsa",
+      "nohp": "3423",
+      "alamatKebun": "sjbdkas",
+      "jenisPekerjaan": "kjsbdkjas",
+      "providerId": "2f23",
+      "providerName": "Citra Kiranti"
+    },
+    {
+      "id": "b710",
+      "nama": "nsdkjasdsa",
+      "nohp": "0909",
+      "alamatKebun": "ksks",
+      "jenisPekerjaan": "kdnsal",
+      "providerId": "e1cc",
+      "providerName": "Afhil Gambus"
+    },
+    {
+      "id": "fe8d",
+      "nama": "vitri",
+      "nohp": "0238238484",
+      "alamatKebun": "rohul",
+      "jenisPekerjaan": "Pupuk sawit",
+      "providerId": "cc62",
+      "providerName": "Munaroh"
+    }
+  ]
+}
