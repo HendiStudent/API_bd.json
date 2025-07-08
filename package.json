@@ -1,11 +1,11 @@
 {
-  "name": "json-server-api",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "json-server --watch db.json --port 3001"
-  },
   "dependencies": {
-    "json-server": "^0.17.3"
+    "json-server": "^0.17.4"
+  },
+  "scripts": {
+    "start": "npx json-server --watch db.json --port $PORT --host 0.0.0.0"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
