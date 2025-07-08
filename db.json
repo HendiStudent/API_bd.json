@@ -168,6 +168,15 @@
       "stok": 53,
       "satuan": "liter",
       "editing": false
+    },
+    {
+      "id": "c6e4",
+      "nama": "sawit tenera",
+      "jenis": "Lainnya",
+      "harga": 50000,
+      "stok": 440,
+      "satuan": "bibit",
+      "editing": false
     }
   ],
   "transaksi": [
@@ -182,6 +191,18 @@
       "hargaSatuan": 800000,
       "totalHarga": 20000000,
       "satuan": "sak"
+    },
+    {
+      "id": "3a3c",
+      "tanggal": "2025-07-08T17:00:51.501Z",
+      "namaPembeli": "mifta",
+      "nohp": "083213124",
+      "barangId": "c6e4",
+      "namaBarang": "sawit tenera",
+      "jumlah": 560,
+      "hargaSatuan": 50000,
+      "totalHarga": 28000000,
+      "satuan": "bibit"
     }
   ],
   "transaksiSawit": [
@@ -198,6 +219,13 @@
       "alamatSawit": "jdkasjd",
       "jumlahMobil": 2,
       "tanggal": "2025-07-08T12:39:40.081Z"
+    },
+    {
+      "id": "9184",
+      "namaPenjual": "hakim",
+      "alamatSawit": "kampar",
+      "jumlahMobil": 4,
+      "tanggal": "2025-07-08T16:59:12.355Z"
     }
   ],
   "penjualanTahunan": [
@@ -314,6 +342,15 @@
       "jenisPekerjaan": "Pupuk sawit",
       "providerId": "cc62",
       "providerName": "Munaroh"
+    },
+    {
+      "id": "5299",
+      "nama": "Hakim",
+      "nohp": "08231231231",
+      "alamatKebun": "kampar",
+      "jenisPekerjaan": "rundap ",
+      "providerId": null,
+      "providerName": "BObi"
     }
   ]
 }
